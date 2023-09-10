@@ -1,0 +1,273 @@
+.shop-container{
+    width: 60%;
+    height: 80%;
+}
+.temp{
+    width: 200px;
+    height: 200px;
+}
+.temp1{
+    transform: rotate(358deg);
+    left: 734.328px;
+    top: 96.6416px;
+    width: 136px;
+    height: 151px;
+}
+.temp2{
+    transform: rotate(4deg);
+    left: -59.3221px;
+    top: 123.902px;
+    width: 132px;
+    height: 146px;
+}
+.temp3{  
+    left: 627.175px;
+    width: 140px;
+    height: 146px;
+    top: 275.075px;
+    transform: rotate(359deg);
+}
+.temp4{
+    transform: rotate(359deg);
+    left: 343.692px;
+    top: 296.343px;
+    height: 146px;
+    width: 141px;
+}
+.temp5{
+    transform: rotate(2deg);
+    left: 65.7477px;
+    top: 295.908px;
+    height: 144px;
+    width: 141px;
+}
+.temp6{
+    transform: rotate(1deg);
+    left: 449.187px;
+    top: 127.408px;
+    height: 134px;
+    width: 141px;
+}
+.temp7{
+    transform: rotate(353deg);
+    left: 199.123px;
+    top: 132.4px;
+    height: 140px;
+    width: 142px;
+}
+.temp8{
+    left: -152px;
+    top: 32px;
+    height: 307px;
+    width: 400px;
+}
+.temp9{
+    left: 384px;
+    top: 257px;
+    height: 254px;
+    width: 384px;
+}
+.temp10{
+    left: 105px;
+    top: 202px;
+    height: 231px;
+    width: 321px;
+}
+.temp11{
+    left: 241px;
+    top: 15px;
+    width: 323px;
+    height: 243px;
+}
+.temp12{
+    left: 367px;
+    top: 254.797px;
+    width: 88px;
+    height: 135px;
+}
+.temp13{
+    left: 432px;
+    top: 3px;
+    width: 121px;
+    height: 152px;
+}
+.temp14{
+    left: 614px;
+    top: 64px;
+    width: 116px;
+    height: 116px;
+}
+.temp15{
+    left: 68px;
+    top: 82px;
+    width: 78px;
+    height: 78px;
+}
+.temp16{
+    left: 554px;
+    top: 234px;
+    width: 102px;
+    height: 74px;
+}
+.temp17{
+    left: 227px;
+    top: -1.20312px;
+    width: 119px;
+    height: 162px;
+}
+.temp18{
+    left: 107px;
+    top: 237px;
+    height: 126px;
+    width: 156px;
+}
+.temp19{
+    left: 158px;
+    top: 67px;
+    height: 108px;
+    width: 136px;
+}
+.temp20{
+    left: 185px;
+    top: 353.797px;
+    width: 123px;
+    height: 156px;
+}
+.temp21{
+    left: 352px;
+    top: 22px;
+    width: 105px;
+    height: 82px;
+}
+.temp23{
+    left: 344px;
+    top: 413px;
+    width: 95px;
+    height: 113px;
+}
+.temp24{
+    left: 203px;
+    top: 219px;
+    width: 84px;
+    height: 108px;
+}
+.temp25{
+    left: 526px;
+    top: -1px;
+    height: 89px;
+    width: 120px;
+}
+.temp26{
+    left: 708px;
+    top: 226.797px;
+    height: 90px;
+    width: 147px;
+}
+.temp27{
+    left: 709px;
+    top: 67px;
+    width: 105px;
+    height: 104px;
+}
+.temp28{
+    left: 363px;
+    top: 158px;
+    width: 276px;
+    height: 195px;
+}
+.temp29{
+    left: 469px;
+    top: 341px;
+    width: 343px;
+    height: 183px;
+}
+.temp30{
+    left: 205px;
+    top: 222px;
+    width: 56px;
+    height: 80px;
+}
+.temp31{
+    left: 334px;
+    top: 180px;
+    width: 104px;
+    height: 153px;
+}
+.temp32{
+    height: 76px;
+    width: 52px;
+    left: 246px;
+    top: 64px;
+}
+.temp33{
+    left: 356px;
+    top: 31px;
+    width: 80px;
+    height: 102px;
+}
+.temp34{
+    left: 488px;
+    top: 79px;
+    width: 103px;
+    height: 154px;
+}
+.temp35{
+    left: 299px;
+    top: 87px;
+    width: 202px;
+    height: 246px;
+}
+.temp36{
+    left: 545px;
+    top: 31px;
+    width: 176px;
+    height: 222px;
+}
+.example6 img{
+    clip-path: ellipse(25% 40% at 50% 50%);
+}
+.example5 img{
+    clip-path: polygon(50% 0%, 100% 48%, 50% 100%, 0 49%);
+}
+.example1{
+    background-image: url(./image/shop1.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example2{
+    background-image: url(./image/shop2.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example3{
+    background-image: url(./image/shop3.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example4{
+    background-image: url(./image/shop4.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example5{
+    background-image: url(./image/shop5.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example6{
+    background-image: url(./image/shop6.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.example7{
+    background-image: url(./image/shop7.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
